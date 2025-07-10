@@ -6,4 +6,10 @@ Live Interactive Preview:
 Check out the full project on Figma:  
 🔗 [Figma Community File](https://www.figma.com/community/file/1445769291042742892)
 
-![Chatbot Screenshot](Images/Screenshot_2024-12-05_144427.png)
+---
+:
+<img src="Images/Screenshot 3.png" alt="Screenshot 3" width="30%" />
+<img src="Images/Screenshot 2.png" alt="Screenshot 2" width="30%" style="margin-right:10px;" />
+<img src="Images/Screenshot 1.png" alt="Screenshot 1" width="30%" style="margin-right:10px;" />
+
+
